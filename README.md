@@ -1,9 +1,14 @@
 ﻿# Projet Machine Learning - Analyse et Prédiction
 
-## Équipe
-- **NOUGBOLOYIN Valentin**
-- **DRAMANE Hamzath**  
-- **HOUSSA Mechard**
+## 👥 Contributions
+
+Ce projet a été réalisé **en collaboration complète** entre les trois membres de l'équipe :
+
+- **NOUGBOLOYIN Valentin** : Coordination Git, Architecture générale, Classification (Logistic Regression & MLP)
+- **DRAMANE Hamzath** : Régression (Linear & Neural Network), Feature Engineering, Visualisations
+- **HOUSSA Mechard** : Preprocessing, Nettoyage des données, Hyperparameter tuning
+
+**Note** : Tous les fichiers ont été développés ensemble en sessions de travail collaboratif. Le dépôt Git a été initialisé par Hamzath, mais chaque membre a contribué activement au code et aux analyses.
 
 ---
 
@@ -148,4 +153,5 @@ jupyter notebook
 ---
 
 **Date de réalisation** : Janvier 2026
+
 
